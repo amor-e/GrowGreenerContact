@@ -1,0 +1,13 @@
+// Grow Greener colors
+
+gray: #BBBBBB
+white: #FFFFFF
+
+lighter green: #369946
+darker green: #276E36
+
+textfield input color: #666
+
+
+font-family: Helvetica, Cambria Math, Calibri, 'Calibri',sans-serif
+
